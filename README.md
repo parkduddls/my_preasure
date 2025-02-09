@@ -25,8 +25,6 @@
     </style>
 </head>
 <body>
-    <h1>Visit Google</h1>
-    <p>Click the button below to go to Google's website.</p>
-    <a href="https://www.google.com" target="_blank">Go to Google</a>
+    <a href="https://www.google.com" target="_blank"> Google</a>
 </body>
 </html>
